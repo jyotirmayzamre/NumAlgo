@@ -1,5 +1,5 @@
 # NumAlgo
-**NumAlgo** is a toolkit of numerical algorithms implemented from scratch in Python — built to explore the foundations of scientific computing. It covers arbitrary-precision arithmetic, interpolation methods, matrix algorithms, optimization techniques, and more. This project is developed for the course **CS-3220: Numerical Algorithms & Optimization**.
+**NumAlgo** is a toolkit of numerical algorithms implemented from scratch in Python — built to explore the foundations of scientific computing. It covers arbitrary-precision arithmetic, interpolation methods, matrix algorithms, optimization techniques, and more. This is coursework for the course **CS-3220: Numerical Algorithms & Optimization**.
 
 ## Features
 
